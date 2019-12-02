@@ -1,4 +1,4 @@
-package main.java.company.JavaClasses.MainTask;
+package company.JavaClasses.MainTask;
 
 import java.util.GregorianCalendar;
 

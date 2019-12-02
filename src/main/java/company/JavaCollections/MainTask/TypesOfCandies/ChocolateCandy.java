@@ -1,4 +1,4 @@
-package main.java.company.JavaCollections.MainTask.TypesOfCandies;
+package company.JavaCollections.MainTask.TypesOfCandies;
 
 public class ChocolateCandy extends Candies {
 

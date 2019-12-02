@@ -1,4 +1,4 @@
-package main.java.company.JavaCollections.OptionalTask;
+package company.JavaCollections.OptionalTask;
 
 import java.util.Scanner;
 import java.util.Stack;

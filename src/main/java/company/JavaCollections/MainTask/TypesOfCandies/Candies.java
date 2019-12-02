@@ -1,6 +1,6 @@
-package main.java.company.JavaCollections.MainTask.TypesOfCandies;
+package company.JavaCollections.MainTask.TypesOfCandies;
 
-public abstract class Candies {
+public class Candies {
     public int weight;
     public int cost;
     public String nameOfTheCandy;

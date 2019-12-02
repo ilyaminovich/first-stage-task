@@ -1,4 +1,4 @@
-package main.java.company.JavaFundamentals.OptionalTask;
+package company.JavaFundamentals.OptionalTask;
 
 import java.util.Scanner;
 

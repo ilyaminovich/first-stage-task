@@ -1,4 +1,4 @@
-package main.java.company.JavaCollections.OptionalTask;
+package company.JavaCollections.OptionalTask;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class JavaCollectionThirdOptionalTask {
     public static void main(String[] args) {
         try {
-            File file = new File("E:/Projects/src/main/java/company/JavaCollections/OptionalTask/newfile.txt");
+            File file = new File("E:/first-stage-task/src/main/java/company/JavaCollections/OptionalTask/newfile.txt");
             Scanner scanner = new Scanner(file);
             ArrayList<String> list = new ArrayList<>();
             System.out.println("Strings in the file: ");

@@ -1,9 +1,9 @@
-package main.java.company.JavaCollections.MainTask.NewYearPresent;
+package company.JavaCollections.MainTask.NewYearPresent;
 
-import main.java.company.JavaCollections.MainTask.TypesOfCandies.Candies;
-import main.java.company.JavaCollections.MainTask.TypesOfCandies.ChewingCandy;
-import main.java.company.JavaCollections.MainTask.TypesOfCandies.ChocolateCandy;
-import main.java.company.JavaCollections.MainTask.TypesOfCandies.PeanutCandy;
+import company.JavaCollections.MainTask.TypesOfCandies.Candies;
+import company.JavaCollections.MainTask.TypesOfCandies.ChewingCandy;
+import company.JavaCollections.MainTask.TypesOfCandies.ChocolateCandy;
+import company.JavaCollections.MainTask.TypesOfCandies.PeanutCandy;
 
 import java.util.ArrayList;
 import java.util.Iterator;
