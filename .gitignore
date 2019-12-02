@@ -2,3 +2,7 @@
 *.log
 target/
 bin/
+.idea
+out
+target
+Projects.iml
